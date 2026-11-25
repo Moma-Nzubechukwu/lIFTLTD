@@ -1,0 +1,20 @@
+{
+    "name": "liftltd",
+    "version": "1.0.0",
+    "description": " A drone delivery website",
+    "license": "ISC",
+    "author": "Moma Nzubechukwu olaedo",
+    "type": "commonjs",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test,js",
+        "dev": "node index.js"
+    },
+    "dependencies": {
+        "dotenv": "^18.0.10",
+        "express": "^5.3.0"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.14"
+    }
+}
